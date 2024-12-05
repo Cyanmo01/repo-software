@@ -1,1 +1,3 @@
-Repositorio para Software II
+# repo-software
+
+Repo de prueba para GitHub
